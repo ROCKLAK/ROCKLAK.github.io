@@ -6,8 +6,8 @@ title: ROCKLAK
 # Short description of your site
 description: InfoSecu site
 
-# encording Format
-encording: UTF-8
+# encoding Format
+encoding: UTF-8
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -23,11 +23,11 @@ baseurl: ""
 
 # List of links in the navigation bar
 navbar-links:
-  ³» ¼Ò°³ : "³» ¼Ò°³"
-  Resources:
+  ë‚´ ì†Œê°œ: "ë‚´ ì†Œê°œ"
+  ëª©ë¡:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
-  Author's home: "http://deanattali.com"
+  ë¸”ë¡œê·¸: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
